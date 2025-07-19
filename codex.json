@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    {
+      "name": "Run App",
+      "command": "node index.js",
+      "language": "javascript"
+    }
+  ]
+}
